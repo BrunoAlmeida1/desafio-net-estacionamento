@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\elias\\Documents\\DIO\\Projetos\\DotNet\\trilha-net-fundamentos-desafio\\DesafioFundamentos\\DesafioFundamentos.csproj": {}
+    "C:\\Users\\elias\\Documents\\DIO\\Projetos\\DotNet\\desafio-net-estacionamento\\DesafioFundamentos\\DesafioFundamentos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\elias\\Documents\\DIO\\Projetos\\DotNet\\trilha-net-fundamentos-desafio\\DesafioFundamentos\\DesafioFundamentos.csproj": {
+    "C:\\Users\\elias\\Documents\\DIO\\Projetos\\DotNet\\desafio-net-estacionamento\\DesafioFundamentos\\DesafioFundamentos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\elias\\Documents\\DIO\\Projetos\\DotNet\\trilha-net-fundamentos-desafio\\DesafioFundamentos\\DesafioFundamentos.csproj",
+        "projectUniqueName": "C:\\Users\\elias\\Documents\\DIO\\Projetos\\DotNet\\desafio-net-estacionamento\\DesafioFundamentos\\DesafioFundamentos.csproj",
         "projectName": "DesafioFundamentos",
-        "projectPath": "C:\\Users\\elias\\Documents\\DIO\\Projetos\\DotNet\\trilha-net-fundamentos-desafio\\DesafioFundamentos\\DesafioFundamentos.csproj",
+        "projectPath": "C:\\Users\\elias\\Documents\\DIO\\Projetos\\DotNet\\desafio-net-estacionamento\\DesafioFundamentos\\DesafioFundamentos.csproj",
         "packagesPath": "C:\\Users\\elias\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\elias\\Documents\\DIO\\Projetos\\DotNet\\trilha-net-fundamentos-desafio\\DesafioFundamentos\\obj\\",
+        "outputPath": "C:\\Users\\elias\\Documents\\DIO\\Projetos\\DotNet\\desafio-net-estacionamento\\DesafioFundamentos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\elias\\AppData\\Roaming\\NuGet\\NuGet.Config"
